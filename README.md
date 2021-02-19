@@ -1,1 +1,4 @@
 # Vimrc
+
+## vimrc location
+~/.vimrc
