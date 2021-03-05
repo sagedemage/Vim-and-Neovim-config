@@ -7,7 +7,7 @@ My configuration files for vim and neovim.
 ## init.vim location
 ~/.config/nvim/init.vim
 
-### if init.vim config does not exist
+### add init.vim config to its home directory location
 ```
 cp /etc/xdg/nvim/sysinit.vim ~/.config/nvim/init.vim
 ```
