@@ -1,5 +1,5 @@
-# Vimrc
-My configuration for vim.
+# About
+My configuration files for vim and neovim.
 
 ## vimrc location
 ~/.vimrc
