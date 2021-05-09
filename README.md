@@ -4,6 +4,9 @@ My configuration files for vim.
 ## vimrc location
 ~/.vimrc
 
+## .vim file with all the plugins
+~/.vim
+
 ## plugins
 <ul>
   <li>lightline</li>
