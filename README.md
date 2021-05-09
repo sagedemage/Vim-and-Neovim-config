@@ -5,7 +5,9 @@ My configuration files for vim.
 ~/.vimrc
 
 ## plugins
-lightline
-nerdtree
-rainbow
+<ul>
+  <li>lightline</li>
+  <li>nerdtree</li>
+  <li>rainbow</li>
+</ul>
 
