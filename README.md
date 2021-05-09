@@ -7,4 +7,5 @@ My configuration files for vim.
 ## plugins
 lightline
 nerdtree
+rainbow
 
