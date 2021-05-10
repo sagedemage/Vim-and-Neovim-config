@@ -1,4 +1,4 @@
-# vim and neovim config
+# vim config
 My configuration files for vim.
 
 ## vimrc location
