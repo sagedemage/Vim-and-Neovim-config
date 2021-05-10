@@ -5,16 +5,16 @@
 " Last Change: 2018/04/11
 " =============================================================================
 
-let s:black    = g:dracula#palette.bg
-let s:gray     = g:dracula#palette.selection
-let s:white    = g:dracula#palette.fg
-let s:darkblue = g:dracula#palette.comment
-let s:cyan     = g:dracula#palette.cyan
-let s:green    = g:dracula#palette.green
-let s:orange   = g:dracula#palette.orange
-let s:purple   = g:dracula#palette.purple
-let s:red      = g:dracula#palette.red
-let s:yellow   = g:dracula#palette.yellow
+let s:black    = ['#282A36', 236]
+let s:gray     = ['#44475A', 239]
+let s:white    = ['#F8F8F2', 253]
+let s:darkblue = ['#6272A4',  61]
+let s:cyan     = ['#8BE9FD', 117]
+let s:green    = ['#50FA7B',  84]
+let s:orange   = ['#FFB86C', 215]
+let s:purple   = ['#BD93F9', 141]
+let s:red      = ['#FF5555', 203]
+let s:yellow   = ['#F1FA8C', 228]
 
   let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
   let s:p.normal.left = [ [ s:black, s:purple ], [ s:cyan, s:gray ] ]
