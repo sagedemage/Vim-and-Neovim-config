@@ -9,7 +9,7 @@ let g:rainbow_active = 1
 set laststatus=2
 
 let g:lightline = {
-      \ 'colorscheme': 'Tomorrow_Night_Blue',
+      \ 'colorscheme': 'dracula',
       \ }
 
 nnoremap <leader>n :NERDTreeFocus<CR>
