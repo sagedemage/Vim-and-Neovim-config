@@ -9,8 +9,8 @@ My configuration files for vim.
 
 ## plugins
 <ul>
-  <li>lightline https://github.com/itchyny/lightline.vim</li>
-  <li>nerdtree</li>
+  <li>lightline https://github.com/itchyny/lightline.vim </li>
+  <li>nerdtree https://github.com/preservim/nerdtree </li>
   <li>rainbow</li>
 </ul>
 
