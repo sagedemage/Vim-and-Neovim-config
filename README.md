@@ -9,7 +9,7 @@ My configuration files for vim.
 
 ## plugins
 <ul>
-  <li>lightline</li>
+  <li>lightline https://github.com/itchyny/lightline.vim</li>
   <li>nerdtree</li>
   <li>rainbow</li>
 </ul>
